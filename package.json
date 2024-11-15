@@ -210,7 +210,7 @@
                 "kotlin.java.home": {
                     "type": "string",
                     "default": "",
-                    "description": "A custom JAVA_HOME for the language server and debug adapter to use."
+                    "description": "语言服务器和调试适配器使用的自定义 JAVA_HOME。"
                 },
                 "kotlin.java.opts": {
                     "type": "string",
